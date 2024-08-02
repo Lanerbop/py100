@@ -1,0 +1,12 @@
+Exercise 1:
+
+string
+boolean
+range ? WRONG (1, 2, 3) is a TUPLE
+float
+array WRONG [1, 2, 3] is a LIST
+integer
+range
+set
+none ? WRONG-ISH None is a NoneType
+dict
