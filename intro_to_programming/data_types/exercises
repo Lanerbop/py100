@@ -10,3 +10,22 @@ range
 set
 none ? WRONG-ISH None is a NoneType
 dict
+
+
+Exercise 2: 
+
+names = ('Asta', 'Butterscotch', 'Pudding', 'Neptune', 'Darwin')
+WRONG forgot to assign to names
+
+
+Exercise 3: 
+
+pets = {
+'Astra' : 'dog', 
+'Butterscotch' : 'cat',
+'Pudding' : 'cat', 
+'Neptune' : 'fish, 
+'Darwin' : 'lizard', 
+}
+
+WRONG don't add parenthesis around elements

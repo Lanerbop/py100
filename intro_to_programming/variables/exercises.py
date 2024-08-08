@@ -80,3 +80,16 @@ balance *= 1.05
 print(balance) 
 balance *= 1.05 
 print(balance) 
+
+# Exercise 10 
+
+# line 1 reassigns variable 
+# line2 neither
+# line3 reassignment
+# line 4 neither
+# line 5 reassigns 
+# line 6 mutates 
+# line 7 mutates 
+# line 8 mutates 
+# line 9 neither  
+# line 10 reassigns 
