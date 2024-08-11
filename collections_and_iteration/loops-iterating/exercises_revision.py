@@ -97,7 +97,7 @@ my_tuple = (1, 'a', '1', 3, [7], 3.1415,
 #     if number == highest: 
 #         break 
 
-# Exercise 11 
+# Exercise 11 - kinda hard to mental through, but I got working code 1st try 
 
 my_list = [
   [1, 3, 6, 11],
@@ -105,13 +105,13 @@ my_list = [
   [9, 17, 16, 0],
 ] 
 
-outer_index = 0 
-while outer_index < len(my_list): 
-    inner_index = 0 
-    inner_list = my_list[outer_index] 
-    while inner_index < len(inner_list): 
-        number = inner_list[inner_index] 
-        if number % 2 == 0: 
-            print(f"{number} is even")
-        inner_index += 1 
-    outer_index += 1
+# outer_index = 0 
+# while outer_index < len(my_list): 
+#     inner_index = 0 
+#     inner_list = my_list[outer_index] 
+#     while inner_index < len(inner_list): 
+#         number = inner_list[inner_index] 
+#         if number % 2 == 0: 
+#             print(f"{number} is even")
+#         inner_index += 1 
+#     outer_index += 1
