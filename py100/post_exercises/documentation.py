@@ -25,4 +25,4 @@ fruits = ["apple", "banana", "cherry", "peach", "watermelon"]
 
 # CHECKING DATA TYPES 
 
-print(type(23.5))
+# print(type(23.5))
