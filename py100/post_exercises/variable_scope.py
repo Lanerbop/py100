@@ -27,3 +27,23 @@
 
 # PART 6
 
+# 1 is printed because a = 2 is only within the local scope.
+
+# PART 7
+
+# 2 will be printed because a is specified to be a global variable 
+# within the function definition.
+
+# PART 8
+
+# A NameError will occur because greeting is called before 
+# its initialization.
+
+# PART 9 - WRONG
+
+# 7 will be printed because a is initialized as a local variable 
+# inside the function.
+
+# PART 10 - WRONG
+
+# [10, 2, 3]
