@@ -117,7 +117,7 @@ def extract_region(locale):
 # print(extract_region('en_GB.UTF-8'))    # GB
 # print(extract_region('ko_KR.UTF-16'))   # KR
 
-# INTERNATIONALIZATION 2
+# INTERNATIONALIZATION 2 - dang bro I really wish I had match/case
 
 def local_greet(locale):
    region = extract_region(locale)
@@ -131,6 +131,6 @@ def local_greet(locale):
    else:
        return greet(language)
    
-print(local_greet('fr_FR.UTF-8'))       # Salut!
-print(local_greet('fr_CA.UTF-8'))       # Salut!
-print(local_greet('fr_MA.UTF-8'))       # Salut!
+# print(local_greet('fr_FR.UTF-8'))       # Salut!
+# print(local_greet('fr_CA.UTF-8'))       # Salut!
+# print(local_greet('fr_MA.UTF-8'))       # Salut!
