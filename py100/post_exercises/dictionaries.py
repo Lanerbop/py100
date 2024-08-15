@@ -101,13 +101,13 @@ car = [
     
 # print(half_numbers)
 
-# LABELED NUMBERS - could be more efficient
+# LABELED NUMBERS - could be less verbose
 
-numbers = {
-    'high':   100,
-    'medium': 50,
-    'low':    10,
-}
+# numbers = {
+#     'high':   100,
+#     'medium': 50,
+#     'low':    10,
+# }
 
-for key, value in numbers.items():
-    print(f"A {key} number is {value}.")
+# for key, value in numbers.items():
+#     print(f"A {key} number is {value}.")
